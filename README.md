@@ -64,7 +64,7 @@
 ## Let's catch up @
 <p align="left"> 
   &emsp; 
-  <a href="https://twitter.com/0xabdulkhalid](https://twitter.com/PwnIsHere" target="_blank"> 
+  <a href="https://twitter.com/PwnIsHere" target="_blank"> 
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white">
   </a> 
   &emsp;
@@ -72,7 +72,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white">
   </a> 
   &emsp;
-  <a href="mailto:0xabdulkhalid@gmail.com" target="_blank"> 
+  <a href="mailto:pawan.bhardwaj92@gmail.com" target="_blank"> 
     <img alt="GitLab" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
   </a>
 </p>
